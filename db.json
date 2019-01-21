@@ -1,0 +1,19 @@
+{
+    "questionAnswer": [
+      {
+        "id": "1",
+        "questions": [
+            {
+                "lang": "en",
+                "text": "Why I didn't get my 50 THB topup after registering on Line"
+            }
+        ],
+        "answer": [
+            {
+                "lang": "en",
+                "text": "You will receive it in 3 working days. If you don't receive it during this time, then contact us again and share your name and mobile number"
+            }
+        ]
+      }
+    ]
+  }
